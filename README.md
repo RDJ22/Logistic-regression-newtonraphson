@@ -1,5 +1,4 @@
 # Logistic-regression-newtonraphson
-# Logistic Regression via Newton-Raphson – ECON5129
 
 This project implements logistic regression from scratch using the Newton-Raphson algorithm and compares the results with `statsmodels.Logit`. A custom class-based approach is used to derive and apply the gradient and Hessian, followed by visualization of predicted probabilities vs. actual outcomes.
 
@@ -35,7 +34,6 @@ This project implements logistic regression from scratch using the Newton-Raphso
 ## Contents
 
 - `q4.ipynb` – Newton-Raphson implementation & visualizations  
-- `Task4.pdf` – Assignment description  
 - `logit_prediction_plot.png` – Visualization of predicted probabilities vs actual labels
 
 ---
