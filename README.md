@@ -34,7 +34,8 @@ This project implements logistic regression from scratch using the Newton-Raphso
 ## Contents
 
 - [Q4.ipynb](./Q4.ipynb) – Newton-Raphson implementation & visualizations  
-- [logit_prediction_plot.png](./logit_prediction_plot.png) – Visualization of predicted probabilities vs actual labels  
+- ![Logit Prediction Plot](./logit_prediction_plot.png)
+ – Visualization of predicted probabilities vs actual labels  
 
 
 ---
