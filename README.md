@@ -4,13 +4,13 @@ This project implements logistic regression from scratch using the Newton-Raphso
 
 ---
 
-## 📄 Assignment Prompt
+## Assignment Prompt
 
 - [Assignment PDF – Task4.pdf](./Task4.pdf)
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 > This project involves estimating the coefficients of a logit model using a custom implementation of the Newton-Raphson algorithm. It covers the derivation of the log-likelihood, gradient, and Hessian, followed by iterative optimization. The final coefficients are validated using `statsmodels`, and a visual comparison of predicted probabilities and actual labels is provided.
 
@@ -25,7 +25,7 @@ This project implements logistic regression from scratch using the Newton-Raphso
 
 ---
 
-## 📊 Key Visualization
+## Key Visualization
 
 <img src="./logit_prediction_plot.png" alt="Logit Prediction Plot" width="600"/>
 
